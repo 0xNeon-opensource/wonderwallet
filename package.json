@@ -1,7 +1,7 @@
 {
-  "name": "arweave-nft-uploader",
-  "version": "1.1.2",
-  "description": "Easily upload images and metadata for your Ethereum (and other) NFTs to Arweave for permanent storage. Compatible with OpenSea!",
+  "name": "wonderwallet",
+  "version": "0.0.0",
+  "description": "Description here",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -26,15 +26,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xNeon-opensource/arweave-nft-uploader.git"
+    "url": "git+https://github.com/0xNeon-opensource/wonderwallet.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/0xNeon-opensource/arweave-nft-uploader/issues"
+    "url": "https://github.com/0xNeon-opensource/wonderwallet/issues"
   },
-  "homepage": "https://github.com/0xNeon-opensource/arweave-nft-uploader#readme",
+  "homepage": "https://github.com/0xNeon-opensource/wonderwallet#readme",
   "devDependencies": {
     "@types/jest": "^27.4.1",
     "jest": "^27.5.1",
@@ -43,10 +43,5 @@
     "tslint": "^6.1.3",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^4.5.5"
-  },
-  "dependencies": {
-    "arlocal": "^1.1.22",
-    "arweave": "^1.10.23",
-    "axios": "^0.22.0"
   }
 }
